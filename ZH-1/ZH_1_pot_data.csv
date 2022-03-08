@@ -1,86 +1,86 @@
 ﻿ID,Doctor,kg,cm,Ease,Treatment,OC,Complications,Pain
-1,Dr_B,116,172,Difficult,Traditional Sitting,0,None,4
-2,Dr_C,86,176,Easy,Hamstring Stretch,0,None,7
-3,Dr_B,72,157,Difficult,Traditional Sitting,0,None,6
-4,Dr_B,63,169,Easy,Hamstring Stretch,2,None,3
-5,Dr_B,114,163,Impossible,Traditional Sitting,0,None,2
-6,Dr_B,121,163,Difficult,Hamstring Stretch,3,None,5
-7,Dr_D,90,170,Difficult,Hamstring Stretch,2,Paresthesia,6
-8,Dr_B,87,164,Difficult,Traditional Sitting,6,None,5
-9,Dr_D,74,166,Easy,Hamstring Stretch,0,None,2
-10,Dr_C,91,175,Easy,Hamstring Stretch,1,None,5
-11,Dr_A,67,167,Easy,Traditional Sitting,6,None,5
-12,Dr_C,65,155,Easy,Traditional Sitting,2,None,5
-13,Dr_C,91,163,Difficult,Hamstring Stretch,2,Paresthesia,8
-14,Dr_C,48,152,Easy,Hamstring Stretch,0,None,4
-15,Dr_C,85,168,Easy,Hamstring Stretch,2,Paresthesia,7
-16,Dr_C,80,173,Easy,Hamstring Stretch,0,None,6
-17,Dr_D,114,168,Impossible,Hamstring Stretch,1,None,2
-18,Dr_D,75,157,Easy,Traditional Sitting,0,Paresthesia,4
-19,Dr_D,59,152,Easy,Hamstring Stretch,0,None,3
-20,Dr_A,57,165,Easy,Hamstring Stretch,1,None,7
-21,Dr_A,105,165,Difficult,Hamstring Stretch,10,Failure - too many OCs,3
-22,Dr_C,83,168,Easy,Traditional Sitting,1,None,4
-23,Dr_C,71,152,Easy,Traditional Sitting,4,None,6
-24,Dr_B,108,175,Impossible,Traditional Sitting,5,None,4
-25,Dr_B,98,176,Easy,Traditional Sitting,1,None,3
-26,Dr_D,74,155,Easy,Hamstring Stretch,0,None,2
-27,Dr_D,134,169,Difficult,Traditional Sitting,1,None,4
-28,Dr_A,83,170,Easy,Traditional Sitting,1,None,6
-29,Dr_B,86,175,Easy,Traditional Sitting,0,None,6
-30,Dr_B,76,165,Difficult,Traditional Sitting,0,Wet Tap,7
-31,Dr_D,82,173,Easy,Hamstring Stretch,0,None,6
-32,Dr_C,59,168,Easy,Traditional Sitting,0,None,3
-33,Dr_C,75,173,Easy,Traditional Sitting,3,Failure - person got dizzy,7
-34,Dr_A,61,163,Easy,Traditional Sitting,1,None,4
-35,Dr_A,106,165,Easy,Traditional Sitting,2,None,8
-36,Dr_A,81,163,Easy,Traditional Sitting,1,None,7
-37,Dr_A,103,161,Easy,Hamstring Stretch,1,None,6
-38,Dr_B,113,166,Difficult,Hamstring Stretch,5,None,4
-39,Dr_D,60,165,Easy,Traditional Sitting,0,None,4
-40,Dr_D,90,171,Easy,Hamstring Stretch,1,None,2
-41,Dr_A,142,170,Impossible,Traditional Sitting,1,None,8
-42,Dr_D,83,160,Easy,Traditional Sitting,0,None,5
-43,Dr_D,83,160,Easy,Traditional Sitting,0,None,3
-44,Dr_D,89,173,Easy,Hamstring Stretch,0,None,4
-45,Dr_A,67,160,Easy,Traditional Sitting,1,None,7
-46,Dr_C,9,168,Difficult,Hamstring Stretch,0,Paresthesia,2
-47,Dr_A,71,163,Easy,Traditional Sitting,1,None,6
-48,Dr_A,66,160,Easy,Hamstring Stretch,1,None,5
-49,Dr_C,95,170,Difficult,Hamstring Stretch,10,Failure - too many OCs,8
-50,Dr_A,70,165,Easy,Hamstring Stretch,4,None,5
-51,Dr_C,94,185,Easy,Traditional Sitting,0,None,5
-52,Dr_C,85,163,Easy,Hamstring Stretch,0,None,4
-53,Dr_B,86,165,Difficult,Hamstring Stretch,2,None,3
-54,Dr_D,131,175,Impossible,Traditional Sitting,0,None,4
-55,Dr_D,67,159,Easy,Traditional Sitting,0,None,3
-56,Dr_B,97,162,Difficult,Traditional Sitting,4,None,6
-57,Dr_D,93,160,Easy,Traditional Sitting,0,None,3
-58,Dr_A,90,163,Easy,Traditional Sitting,0,None,6
-59,Dr_A,84,164,Difficult,Traditional Sitting,1,None,6
-60,Dr_B,59,157,Easy,Hamstring Stretch,0,None,7
-61,Dr_B,112,170,Difficult,Traditional Sitting,1,None,7
-62,Dr_B,86,170,Impossible,Traditional Sitting,1,None,7
-63,Dr_C,74,168,Easy,Traditional Sitting,0,None,5
-64,Dr_C,92,163,Easy,Traditional Sitting,1,None,7
-65,Dr_D,168,168,Impossible,Hamstring Stretch,2,None,3
-66,Dr_A,80,157,Difficult,Traditional Sitting,5,None,8
-67,Dr_D,79,163,Easy,Hamstring Stretch,0,None,6
-68,Dr_C,84,160,Easy,Hamstring Stretch,0,None,5
-69,Dr_A,63,16,Easy,Traditional Sitting,0,None,5
-70,Dr_A,85,165,Easy,Hamstring Stretch,0,None,6
-71,Dr_A,79,168,Easy,Hamstring Stretch,0,None,4
-72,Dr_A,79,160,Easy,Traditional Sitting,3,None,8
-73,Dr_C,77,157,Easy,Traditional Sitting,0,None,8
-74,Dr_B,93,170,Easy,Traditional Sitting,1,None,5
-75,Dr_C,57,160,Easy,Hamstring Stretch,3,None,7
-76,Dr_C,96,180,Easy,Traditional Sitting,0,None,8
-77,Dr_B,79,160,Difficult,Traditional Sitting,0,None,2
-78,Dr_B,69,157,Easy,Traditional Sitting,1,None,4
-79,Dr_B,72,170,Easy,Hamstring Stretch,0,None,3
-80,Dr_D,104,169,Difficult,Traditional Sitting,2,None,3
-81,Dr_D,89,172,Difficult,Traditional Sitting,0,None,3
-82,Dr_B,86,156,Impossible,Traditional Sitting,0,None,4
-83,Dr_A,103,170,Easy,Traditional Sitting,1,None,6
-84,Dr_A,72,160,Easy,Traditional Sitting,0,None,6
-85,Dr_A,94,165,Easy,Hamstring Stretch,0,None,5
+1,Dr_B,116,172,Difficult,Traditional_Sitting,0,None,4
+2,Dr_C,86,176,Easy,Hamstring_Stretch,0,None,7
+3,Dr_B,72,157,Difficult,Traditional_Sitting,0,None,6
+4,Dr_B,63,169,Easy,Hamstring_Stretch,2,None,3
+5,Dr_B,114,163,Impossible,Traditional_Sitting,0,None,2
+6,Dr_B,121,163,Difficult,Hamstring_Stretch,3,None,5
+7,Dr_D,90,170,Difficult,Hamstring_Stretch,2,Paresthesia,6
+8,Dr_B,87,164,Difficult,Traditional_Sitting,6,None,5
+9,Dr_D,74,166,Easy,Hamstring_Stretch,0,None,2
+10,Dr_C,91,175,Easy,Hamstring_Stretch,1,None,5
+11,Dr_A,67,167,Easy,Traditional_Sitting,6,None,5
+12,Dr_C,65,155,Easy,Traditional_Sitting,2,None,5
+13,Dr_C,91,163,Difficult,Hamstring_Stretch,2,Paresthesia,8
+14,Dr_C,48,152,Easy,Hamstring_Stretch,0,None,4
+15,Dr_C,85,168,Easy,Hamstring_Stretch,2,Paresthesia,7
+16,Dr_C,80,173,Easy,Hamstring_Stretch,0,None,6
+17,Dr_D,114,168,Impossible,Hamstring_Stretch,1,None,2
+18,Dr_D,75,157,Easy,Traditional_Sitting,0,Paresthesia,4
+19,Dr_D,59,152,Easy,Hamstring_Stretch,0,None,3
+20,Dr_A,57,165,Easy,Hamstring_Stretch,1,None,7
+21,Dr_A,105,165,Difficult,Hamstring_Stretch,10,Failure - too many OCs,3
+22,Dr_C,83,168,Easy,Traditional_Sitting,1,None,4
+23,Dr_C,71,152,Easy,Traditional_Sitting,4,None,6
+24,Dr_B,108,175,Impossible,Traditional_Sitting,5,None,4
+25,Dr_B,98,176,Easy,Traditional_Sitting,1,None,3
+26,Dr_D,74,155,Easy,Hamstring_Stretch,0,None,2
+27,Dr_D,134,169,Difficult,Traditional_Sitting,1,None,4
+28,Dr_A,83,170,Easy,Traditional_Sitting,1,None,6
+29,Dr_B,86,175,Easy,Traditional_Sitting,0,None,6
+30,Dr_B,76,165,Difficult,Traditional_Sitting,0,Wet Tap,7
+31,Dr_D,82,173,Easy,Hamstring_Stretch,0,None,6
+32,Dr_C,59,168,Easy,Traditional_Sitting,0,None,3
+33,Dr_C,75,173,Easy,Traditional_Sitting,3,Failure - person got dizzy,7
+34,Dr_A,61,163,Easy,Traditional_Sitting,1,None,4
+35,Dr_A,106,165,Easy,Traditional_Sitting,2,None,8
+36,Dr_A,81,163,Easy,Traditional_Sitting,1,None,7
+37,Dr_A,103,161,Easy,Hamstring_Stretch,1,None,6
+38,Dr_B,113,166,Difficult,Hamstring_Stretch,5,None,4
+39,Dr_D,60,165,Easy,Traditional_Sitting,0,None,4
+40,Dr_D,90,171,Easy,Hamstring_Stretch,1,None,2
+41,Dr_A,142,170,Impossible,Traditional_Sitting,1,None,8
+42,Dr_D,83,160,Easy,Traditional_Sitting,0,None,5
+43,Dr_D,83,160,Easy,Traditional_Sitting,0,None,3
+44,Dr_D,89,173,Easy,Hamstring_Stretch,0,None,4
+45,Dr_A,67,160,Easy,Traditional_Sitting,1,None,7
+46,Dr_C,9,168,Difficult,Hamstring_Stretch,0,Paresthesia,2
+47,Dr_A,71,163,Easy,Traditional_Sitting,1,None,6
+48,Dr_A,66,160,Easy,Hamstring_Stretch,1,None,5
+49,Dr_C,95,170,Difficult,Hamstring_Stretch,10,Failure - too many OCs,8
+50,Dr_A,70,165,Easy,Hamstring_Stretch,4,None,5
+51,Dr_C,94,185,Easy,Traditional_Sitting,0,None,5
+52,Dr_C,85,163,Easy,Hamstring_Stretch,0,None,4
+53,Dr_B,86,165,Difficult,Hamstring_Stretch,2,None,3
+54,Dr_D,131,175,Impossible,Traditional_Sitting,0,None,4
+55,Dr_D,67,159,Easy,Traditional_Sitting,0,None,3
+56,Dr_B,97,162,Difficult,Traditional_Sitting,4,None,6
+57,Dr_D,93,160,Easy,Traditional_Sitting,0,None,3
+58,Dr_A,90,163,Easy,Traditional_Sitting,0,None,6
+59,Dr_A,84,164,Difficult,Traditional_Sitting,1,None,6
+60,Dr_B,59,157,Easy,Hamstring_Stretch,0,None,7
+61,Dr_B,112,170,Difficult,Traditional_Sitting,1,None,7
+62,Dr_B,86,170,Impossible,Traditional_Sitting,1,None,7
+63,Dr_C,74,168,Easy,Traditional_Sitting,0,None,5
+64,Dr_C,92,163,Easy,Traditional_Sitting,1,None,7
+65,Dr_D,168,168,Impossible,Hamstring_Stretch,2,None,3
+66,Dr_A,80,157,Difficult,Traditional_Sitting,5,None,8
+67,Dr_D,79,163,Easy,Hamstring_Stretch,0,None,6
+68,Dr_C,84,160,Easy,Hamstring_Stretch,0,None,5
+69,Dr_A,63,16,Easy,Traditional_Sitting,0,None,5
+70,Dr_A,85,165,Easy,Hamstring_Stretch,0,None,6
+71,Dr_A,79,168,Easy,Hamstring_Stretch,0,None,4
+72,Dr_A,79,160,Easy,Traditional_Sitting,3,None,8
+73,Dr_C,77,157,Easy,Traditional_Sitting,0,None,8
+74,Dr_B,93,170,Easy,Traditional_Sitting,1,None,5
+75,Dr_C,57,160,Easy,Hamstring_Stretch,3,None,7
+76,Dr_C,96,180,Easy,Traditional_Sitting,0,None,8
+77,Dr_B,79,160,Difficult,Traditional_Sitting,0,None,2
+78,Dr_B,69,157,Easy,Traditional_Sitting,1,None,4
+79,Dr_B,72,170,Easy,Hamstring_Stretch,0,None,3
+80,Dr_D,104,169,Difficult,Traditional_Sitting,2,None,3
+81,Dr_D,89,172,Difficult,Traditional_Sitting,0,None,3
+82,Dr_B,86,156,Impossible,Traditional_Sitting,0,None,4
+83,Dr_A,103,170,Easy,Traditional_Sitting,1,None,6
+84,Dr_A,72,160,Easy,Traditional_Sitting,0,None,6
+85,Dr_A,94,165,Easy,Hamstring_Stretch,0,None,5
