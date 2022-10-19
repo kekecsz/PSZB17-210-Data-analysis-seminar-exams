@@ -1,47 +1,48 @@
-participant_gender,expected_pain_BL,painintensity_BL,paintolerance_BL,group,hypnotizability_total,FPQ_total,prefered_procedure_ENG,paintolerance_change,painintensity_change,expectancy_pain_reduction,expectancy_hypnosis_depth,hypnosis_depth,block_number,condition
-Male,3,7,30,relaxation - whitenoise,9,1.9,hypnotic relaxation,-2,-1,45,4,7,1,relaxation
-Male,8,8,24,whitenoise - relaxation,NA,2.366666667,hypnotic relaxation,8,-1,0,1,4,2,relaxation
-Male,5,8,27,whitenoise - relaxation,NA,2.333333333,hypnotic relaxation,1,0,19,4,8,2,relaxation
-Female,5,8,69,whitenoise - relaxation,NA,2.933333333,hypnotic relaxation,-24,-1,50,8,6,2,relaxation
-Female,6,8,24,whitenoise - relaxation,NA,2.633333333,hypnotic relaxation,36,-1,52,7,7,2,relaxation
-Female,4,5,27,whitenoise - relaxation,5,3.066666667,hypnotic relaxation,12,2,70,7,7,2,relaxation
-Female,7,6,82,relaxation - whitenoise,NA,2.5,hypnotic relaxation,23,-3,55,4,4,1,relaxation
-Male,7,9,30,relaxation - whitenoise,NA,2.966666667,white noise hypnosis,22,-2,41,5,7,1,relaxation
-Female,9,10,38,whitenoise - relaxation,4,3.7,hypnotic relaxation,16,0,30,2,5,2,relaxation
-Female,3,9,23,relaxation - whitenoise,9,3.766666667,white noise hypnosis,9,-3,84,7,5,1,relaxation
-Female,5,7,44,relaxation - whitenoise,4,2.133333333,white noise hypnosis,0,-2,70,4,5,1,relaxation
-Male,4,8,100,whitenoise - relaxation,10,2.8,hypnotic relaxation,-67,0,50,4,5,2,relaxation
-Female,9,8,23,relaxation - whitenoise,NA,2.8,white noise hypnosis,3,-1,90,5,0,1,relaxation
-Female,4,8,49,relaxation - whitenoise,8,3.133333333,white noise hypnosis,9,-1,65,7,4,1,relaxation
-Female,9,9,14,whitenoise - relaxation,8,4,white noise hypnosis,7,0,29,3,1,2,relaxation
-Female,4,7,53,whitenoise - relaxation,6,2.966666667,white noise hypnosis,-1,0,46,7,6,2,relaxation
-Female,7,8,54,relaxation - whitenoise,8,3.266666667,white noise hypnosis,-4,-1,60,6,7,1,relaxation
-Male,5,6,25,whitenoise - relaxation,7,2.166666667,white noise hypnosis,3,-4,51,7,7,2,relaxation
-Female,4,8,58,whitenoise - relaxation,9,3.133333333,hypnotic relaxation,62,-4,45,3,10,2,relaxation
-Male,4,7,18,whitenoise - relaxation,9,3.2,white noise hypnosis,8,1,51,7,10,2,relaxation
-Female,6,8,27,relaxation - whitenoise,NA,2.266666667,white noise hypnosis,18,-3,60,5,7,1,relaxation
-Male,8,8,68,relaxation - whitenoise,NA,2.033333333,white noise hypnosis,-13,0,15,2,0,1,relaxation
-Female,7,6,21,whitenoise - relaxation,NA,2.9,hypnotic relaxation,11,-4,39,7,8,2,relaxation
-Female,5,7,38,whitenoise - relaxation,7,2.633333333,hypnotic relaxation,19,-3,40,3,3,1,whitenoise
-Female,7,9,53,relaxation - whitenoise,NA,2.833333333,white noise hypnosis,17,-1,80,7,9,2,whitenoise
-Female,4,8,62,relaxation - whitenoise,NA,2.466666667,hypnotic relaxation,8,0,30,3,4,2,whitenoise
-Female,5,7,74,whitenoise - relaxation,NA,2.833333333,hypnotic relaxation,-23,-2,40,5,1,1,whitenoise
-Female,3,4,20,whitenoise - relaxation,NA,2.833333333,hypnotic relaxation,15,1,40,10,3,1,whitenoise
-Female,4,4,33,relaxation - whitenoise,3,3.433333333,white noise hypnosis,2,-2,40,6,6,2,whitenoise
-Female,5,6,20,whitenoise - relaxation,NA,2.1,white noise hypnosis,7,0,50,4,1,1,whitenoise
-Female,6,7,53,relaxation - whitenoise,8,2.566666667,white noise hypnosis,17,-2,74,7,8,2,whitenoise
-Female,4,7,49,whitenoise - relaxation,NA,3.266666667,white noise hypnosis,0,1,54,2,4,1,whitenoise
-Female,5,8,36,whitenoise - relaxation,6,3.7,hypnotic relaxation,1,-1,60,5,6,1,whitenoise
-Male,6,9,48,whitenoise - relaxation,5,2.133333333,hypnotic relaxation,52,-2,75,8,8,1,whitenoise
-Female,7,7,20,relaxation - whitenoise,NA,3.7,hypnotic relaxation,27,-1,83,7,8,2,whitenoise
-Female,6,8,59,relaxation - whitenoise,NA,2.133333333,hypnotic relaxation,31,0,50,6,6,2,whitenoise
-Female,5,7,36,relaxation - whitenoise,8,2.933333333,hypnotic relaxation,23,0,72,7,6,2,whitenoise
-Female,4,6,52,whitenoise - relaxation,5,2.666666667,hypnotic relaxation,36,1,40,6,3,1,whitenoise
-Female,5,8,33,whitenoise - relaxation,5,2.933333333,white noise hypnosis,12,0,72,4,2,1,whitenoise
-Male,4,6,45,relaxation - whitenoise,NA,2.5,hypnotic relaxation,-1,1,60,5,3,2,whitenoise
-Female,4,9,54,relaxation - whitenoise,6,2.966666667,white noise hypnosis,3,0,30,7,8,2,whitenoise
-Female,7,3,41,relaxation - whitenoise,5,2.833333333,white noise hypnosis,4,1,41,6,7,2,whitenoise
-Female,6,4,54,relaxation - whitenoise,4,3.466666667,hypnotic relaxation,18,5,42,7,3,2,whitenoise
-Male,7,9,32,relaxation - whitenoise,6,2.633333333,white noise hypnosis,3,-1,60,6,7,2,whitenoise
-Female,7,8,68,relaxation - whitenoise,1,1.966666667,hypnotic relaxation,-11,-1,5,1,0,2,whitenoise
-Female,5,7,57,relaxation - whitenoise,NA,2.2,white noise hypnosis,-21,-2,61,5,3,2,whitenoise
+ID,participant_gender,expected_pain_pre,pain_intensity_pre,pain_tolerance_pre,pain_tolerance_post,presentation_order,prefered_procedure,FPQ_total,group
+ID_01,Male,3,7,30,28,relaxation - whitenoise,relaxation,1.9,relaxation
+ID_02,Male,8,8,24,32,whitenoise - relaxation,relaxation,2.366666667,relaxation
+ID_03,Male,5,8,27,28,whitenoise - relaxation,relaxation,2.333333333,relaxation
+ID_04,Female,5,8,69,45,whitenoise - relaxation,relaxation,2.933333333,relaxation
+ID_05,Female,6,8,24,60,whitenoise - relaxation,relaxation,2.633333333,relaxation
+ID_06,Female,4,5,27,39,whitenoise - relaxation,relaxation,3.066666667,relaxation
+ID_07,Female,7,6,82,105,relaxation - whitenoise,relaxation,2.5,relaxation
+ID_08,Male,7,9,30,52,relaxation - whitenoise,whitenoise,2.966666667,relaxation
+ID_09,Female,9,10,38,54,whitenoise - relaxation,relaxation,3.7,relaxation
+ID_10,Female,3,9,23,32,relaxation - whitenoise,whitenoise,3.766666667,relaxation
+ID_11,Female,5,7,44,44,relaxation - whitenoise,whitenoise,2.133333333,relaxation
+ID_12,Male,4,8,100,33,whitenoise - relaxation,relaxation,2.8,relaxation
+ID_13,Female,9,8,23,26,relaxation - whitenoise,whitenoise,2.8,relaxation
+ID_14,Female,4,8,49,58,relaxation - whitenoise,whitenoise,3.133333333,relaxation
+ID_15,Female,9,9,14,21,whitenoise - relaxation,whitenoise,4,relaxation
+ID_16,Female,4,7,444,52,whitenoise - relaxation,whitenoise,2.966666667,relaxation
+ID_17,Female,7,8,54,50,relaxation - whitenoise,whitenoise,3.266666667,relaxation
+ID_18,Male,5,6,25,28,whitenoise - relaxation,whitenoise,2.166666667,relaxation
+ID_19,Female,4,8,58,120,whitenoise - relaxation,relaxation,3.133333333,relaxation
+ID_20,Male,4,7,18,26,whitenoise - relaxation,whitenoise,3.2,relaxation
+ID_21,Female,6,8,27,45,relaxation - whitenoise,whitenoise,2.266666667,relaxation
+ID_22,Male,8,8,68,55,relaxation - whitenoise,whitenoise,2.033333333,relaxation
+ID_23,Female,7,6,21,32,whitenoise - relaxation,relaxation,2.9,relaxation
+ID_24,Female,5,7,38,57,whitenoise - relaxation,relaxation,2.633333333,whitenoise
+ID_25,Female,7,9,53,70,relaxation - whitenoise,whitenoise,2.833333333,whitenoise
+ID_26,Female,4,8,62,70,relaxation - whitenoise,relaxation,2.466666667,whitenoise
+ID_27,Female,5,7,74,51,whitenoise - relaxation,relaxation,2.833333333,whitenoise
+ID_28,Female,3,4,50,86,relaxation - whitenoise,whitenoise,2.2,test
+ID_29,Female,3,4,20,35,whitenoise - relaxation,relaxation,2.833333333,whitenoise
+ID_30,Female,4,4,33,35,relaxation - whitenoise,whitenoise,3.433333333,whitenoise
+ID_31,Female,5,6,20,27,whitenoise - relaxation,whitenoise,2.1,whitenoise
+ID_32,Female,6,7,53,70,relaxation - whitenoise,whitenoise,2.566666667,whitenoise
+ID_33,Female,4,7,49,49,whitenoise - relaxation,whitenoise,3.266666667,whitenoise
+ID_34,Female,5,8,36,37,whitenoise - relaxation,relaxation,3.7,whitenoise
+ID_35,Male,6,9,48,100,whitenoise - relaxation,relaxation,2.133333333,whitenoise
+ID_36,Female,7,7,20,47,relaxation - whitenoise,relaxation,3.7,whitenoise
+ID_37,Female,6,8,59,90,relaxation - whitenoise,relaxation,2.133333333,whitenoise
+ID_38,Female,5,7,36,59,relaxation - whitenoise,relaxation,2.933333333,whitenoise
+ID_39,Female,4,6,52,88,whitenoise - relaxation,relaxation,2.666666667,whitenoise
+ID_40,Female,5,8,33,45,whitenoise - relaxation,whitenoise,2.933333333,whitenoise
+ID_41,Male,4,6,45,44,relaxation - whitenoise,relaxation,2.5,whitenoise
+ID_42,Female,4,9,54,57,relaxation - whitenoise,whitenoise,2.966666667,whitenoise
+ID_43,Female,7,3,41,45,relaxation - whitenoise,whitenoise,2.833333333,whitenoise
+ID_44,Female,6,4,54,72,relaxation - whitenoise,relaxation,3.466666667,whitenoise
+ID_45,Male,7,9,32,35,relaxation - whitenoise,whitenoise,2.633333333,whitenoise
+ID_46,Female,7,8,68,57,relaxation - whitenoise,relaxation,1.966666667,whitenoise
+ID_47,Female,5,7,57,36,relaxation - whitenoise,whitenoise,2.2,whitenoise
