@@ -1,7 +1,7 @@
 ﻿ID,Doctor,kg,cm,Ease,Treatment,OC,Complications,Pain
 1,Dr. B,116,172,Difficult,Traditional Sitting,0,None,6
 2,Dr. C,86,176,Easy,Hamstring Stretch,0,None,5
-3,Dr. B,72,157,Difficult,Traditional Sitting,0,None,7
+3,Dr. B,72,157,Hard,Traditional Sitting,0,None,7
 4,Dr. B,63,169,Easy,Hamstring Stretch,2,None,6
 5,Dr. B,114,163,Impossible,Traditional Sitting,0,None,5
 6,Dr. B,121,163,Difficult,Hamstring Stretch,3,None,6
@@ -27,7 +27,7 @@
 26,Dr. D,74,155,Easy,Hamstring Stretch,0,None,2
 27,Dr. D,134,169,Difficult,Traditional Sitting,1,None,3
 28,Dr. A,83,170,Easy,Traditional Sitting,1,None,7
-29,Dr. House,86,175,Easy,Traditional Sitting,0,None,5
+29,Dr. B,86,175,Easy,Traditional Sitting,0,None,5
 30,Dr. B,76,165,Difficult,Traditional Sitting,0,Wet Tap,4
 31,Dr. D,82,173,Easy,Hamstring Stretch,0,None,2
 32,Dr. C,59,168,Easy,Traditional Sitting,0,None,7
