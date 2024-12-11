@@ -1,398 +1,398 @@
-"rank","discipline","yrs.since.phd","yrs.service","sex","salary","institution"
-"Prof","B",19,18,"Male",131890,"Princeton"
-"Prof","B",20,16,"Male",165340,"Princeton"
-"AsstProf","B",4,3,"Male",71890,"Princeton"
-"Prof","B",45,39,"Male",107140,"Princeton"
-"Prof","B",40,41,"Male",133640,"Princeton"
-"AssocProf","B",6,6,"Male",89140,"Princeton"
-"Prof","B",30,23,"Male",167140,"Princeton"
-"Prof","B",45,45,"Male",139905,"Princeton"
-"Prof","B",21,20,"Male",111390,"Princeton"
-"Prof","B",18,18,"Femmmale",121140,"Princeton"
-"AssocProf","B",12,8,"Male",111940,"Princeton"
-"AsstProf","B",7,2,"Male",71940,"Princeton"
-"AsstProf","B",1,1,"Male",69840,"Princeton"
-"AsstProf","B",2,0,"Male",70140,"Princeton"
-"Prof","B",20,18,"Male",96940,"Princeton"
-"Prof","B",12,3,"Male",109290,"Princeton"
-"Prof","B",19,20,"Male",93140,"Princeton"
-"Prof","A",38,34,"Male",95590,"Princeton"
-"Prof","A",37,23,"Male",116890,"Princeton"
-"Prof","A",39,36,"Female",129140,"Princeton"
-"Prof","A",31,26,"Male",81705,"Princeton"
-"Prof","A",36,31,"Male",94720,"Princeton"
-"Prof","A",34,30,"Male",86044,"Princeton"
-"Prof","A",24,19,"Male",105208,"Princeton"
-"AssocProf","A",13,8,"Female",66970,"Princeton"
-"Prof","A",21,8,"Male",98434,"Princeton"
-"Prof","A",35,23,"Male",127025,"Princeton"
-"AsstProf","B",5,3,"Male",74519,"Princeton"
-"AsstProf","B",11,0,"Male",69140,"Princeton"
-"Prof","B",12,8,"Male",110363,"Princeton"
-"Prof","B",20,4,"Male",124401,"Princeton"
-"AsstProf","B",7,2,"Male",72056,"Princeton"
-"Prof","B",13,9,"Male",109396,"Princeton"
-"AsstProf","B",4,2,"Male",72365,"Princeton"
-"AsstProf","B",4,2,"Female",72365,"Princeton"
-"AsstProf","B",5,0,"Female",69140,"Princeton"
-"Prof","B",22,21,"Male",147890,"Princeton"
-"AsstProf","B",7,4,"Male",78513,"Princeton"
-"Prof","B",41,31,"Male",117336,"Princeton"
-"AssocProf","B",9,9,"Male",93078,"Princeton"
-"Prof","B",23,2,"Male",147323,"Harvard"
-"AssocProf","B",23,23,"Male",94241,"Harvard"
-"Prof","B",40,27,"Male",102122,"Harvard"
-"Prof","B",38,38,"Male",232368,"Harvard"
-"Prof","B",19,19,"Male",95207,"Harvard"
-"Prof","B",25,15,"Male",115601,"Harvard"
-"Prof","B",40,28,"Male",99016,"Harvard"
-"Prof","B",23,19,"Female",152591,"Harvard"
-"Prof","B",25,25,"Female",140919,"Harvard"
-"AsstProf","B",1,1,"Male",71591,"Harvard"
-"Prof","B",28,28,"Male",127444,"Harvard"
-"Prof","B",12,11,"Male",109698,"Harvard"
-"AsstProf","B",11,3,"Female",75515,"Harvard"
-"Prof","B",16,9,"Male",107462,"Harvard"
-"AssocProf","B",12,11,"Male",104583,"Harvard"
-"AssocProf","B",14,-18,"Male",84723,"Harvard"
-"Prof","B",23,21,"Male",118527,"Harvard"
-"AssocProf","B",9,8,"Male",91038,"Harvard"
-"AssocProf","B",10,9,"Male",100958,"Harvard"
-"AsstProf","B",8,3,"Male",75867,"Harvard"
-"AssocProf","B",9,8,"Male",91127,"Harvard"
-"AsstProf","B",3,2,"Male",76066,"Harvard"
-"Prof","B",33,31,"Male",110608,"Harvard"
-"AssocProf","B",11,11,"Female",104436,"Harvard"
-"AsstProf","B",4,3,"Male",69227,"Harvard"
-"AssocProf","B",9,8,"Male",101345,"Harvard"
-"Prof","B",22,12,"Male",101823,"Harvard"
-"Prof","B",35,31,"Male",100241,"Harvard"
-"Prof","B",17,17,"Female",112335,"Harvard"
-"Prof","B",28,36,"Male",92235,"Harvard"
-"Prof","B",17,2,"Male",127143,"Harvard"
-"Prof","B",45,45,"Male",147679,"Harvard"
-"Prof","B",29,19,"Male",100954,"Harvard"
-"Prof","B",35,34,"Male",93214,"Harvard"
-"Prof","B",28,23,"Male",114221,"Harvard"
-"AsstProf","B",8,3,"Male",74089,"Harvard"
-"Prof","B",17,3,"Male",151303,"Harvard"
-"Prof","B",26,19,"Male",193823,"Harvard"
-"AsstProf","B",3,1,"Male",86923,"Harvard"
-"AsstProf","B",6,2,"Male",85063,"Harvard"
-"Prof","B",43,28,"Male",155128,"Columbia"
-"Prof","B",17,16,"Male",139970,"Columbia"
-"Prof","B",22,20,"Male",149025,"Columbia"
-"AsstProf","B",6,2,"Male",93210,"Columbia"
-"Prof","B",17,18,"Female",127345,"Columbia"
-"Prof","B",15,14,"Male",137210,"Columbia"
-"Prof","B",37,37,"Male",157093,"Columbia"
-"AsstProf","B",2,2,"Male",92785,"Columbia"
-"Prof","B",25,25,"Male",176657,"Columbia"
-"AssocProf","B",9,7,"Male",111393,"Columbia"
-"AsstProf","B",10,5,"Female",101417,"Columbia"
-"AssocProf","B",10,7,"Male",109513,"Columbia"
-"AssocProf","B",10,7,"Male",110016,"Columbia"
-"Prof","B",38,38,"Male",170409,"Columbia"
-"Prof","B",21,20,"Male",128068,"Columbia"
-"AsstProf","B",4,0,"Male",88385,"Columbia"
-"AssocProf","B",17,12,"Male",99996,"Columbia"
-"Prof","B",13,7,"Male",134061,"Columbia"
-"Prof","B",30,14,"Male",106620,"Columbia"
-"Prof","B",41,26,"Male",111074,"Columbia"
-"Prof","B",42,25,"Male",137602,"Columbia"
-"Prof","B",28,23,"Male",131318,"Columbia"
-"Prof","B",16,5,"Male",157688,"Columbia"
-"Prof","B",20,14,"Female",131897,"Columbia"
-"AssocProf","A",18,10,"Male",88235,"Columbia"
-"Prof","A",31,28,"Male",117928,"Columbia"
-"AssocProf","A",11,8,"Male",86484,"Columbia"
-"AssocProf","A",10,8,"Male",86985,"Columbia"
-"AssocProf","A",15,8,"Male",85885,"Columbia"
-"Prof","A",40,31,"Male",135590,"Columbia"
-"Prof","A",20,16,"Male",116814,"Columbia"
-"AssocProf","A",19,16,"Male",86485,"Columbia"
-"AsstProf","A",3,1,"Male",76885,"Columbia"
-"Prof","A",37,37,"Male",108664,"Columbia"
-"Prof","A",12,0,"Female",109385,"Columbia"
-"Prof","A",21,9,"Male",125191,"Columbia"
-"Prof","A",30,29,"Male",152885,"Columbia"
-"Prof","A",39,36,"Male",121900,"Columbia"
-"AsstProf","A",4,1,"Male",76885,"Columbia"
-"AsstProf","A",5,3,"Female",77885,"Columbia"
-"Prof","A",14,14,"Male",114623,"MIT"
-"Prof","A",32,32,"Male",123619,"MIT"
-"Prof","A",24,22,"Male",96572,"MIT"
-"AssocProf","A",25,22,"Female",62194,"MIT"
-"Prof","A",24,22,"Male",95924,"MIT"
-"Prof","A",54,49,"Male",77472,"MIT"
-"Prof","A",28,26,"Male",154810,"MIT"
-"AsstProf","A",2,0,"Female",71810,"MIT"
-"Prof","A",32,30,"Male",112588,"MIT"
-"AsstProf","A",4,2,"Male",72310,"MIT"
-"AssocProf","A",11,9,"Male",82311,"MIT"
-"Prof","A",56,57,"Male",76150,"MIT"
-"AssocProf","A",10,8,"Female",76810,"MIT"
-"AsstProf","A",3,1,"Female",71810,"MIT"
-"Prof","A",35,25,"Male",167945,"MIT"
-"Prof","A",20,18,"Male",135310,"MIT"
-"Prof","A",16,14,"Male",107572,"MIT"
-"Prof","A",17,14,"Male",104978,"MIT"
-"AssocProf","A",10,7,"Male",73187,"MIT"
-"Prof","A",21,18,"Male",151974,"MIT"
-"AssocProf","A",14,8,"Male",99412,"MIT"
-"AssocProf","A",15,10,"Male",80810,"MIT"
-"Prof","A",19,11,"Male",105918,"MIT"
-"AsstProf","B",3,3,"Male",89252,"MIT"
-"Prof","B",27,27,"Male",112006,"MIT"
-"Prof","B",28,28,"Male",118325,"MIT"
-"AsstProf","B",4,4,"Male",91310,"MIT"
-"Prof","B",27,27,"Male",156248,"MIT"
-"Prof","B",36,26,"Female",143961,"MIT"
-"AsstProf","B",4,3,"Male",94389,"MIT"
-"Prof","B",14,12,"Male",127458,"MIT"
-"AsstProf","B",4,4,"Male",91310,"MIT"
-"Prof","B",21,9,"Male",110478,"MIT"
-"AssocProf","B",12,10,"Female",103304,"MIT"
-"AsstProf","B",4,0,"Male",91310,"MIT"
-"Prof","B",21,21,"Male",118281,"MIT"
-"AssocProf","B",12,18,"Male",112651,"MIT"
-"AsstProf","B",1,0,"Male",87310,"MIT"
-"AssocProf","B",6,6,"Male",94718,"MIT"
-"Prof","B",15,16,"Male",136477,"MIT"
-"AsstProf","B",2,2,"Male",92636,"UCLA"
-"Prof","B",26,19,"Male",179620,"UCLA"
-"AssocProf","B",22,7,"Male",101630,"UCLA"
-"AsstProf","B",3,3,"Male",93062,"UCLA"
-"AsstProf","B",1,0,"Male",91915,"UCLA"
-"Prof","B",21,8,"Male",109010,"UCLA"
-"Prof","B",16,16,"Male",170404,"UCLA"
-"Prof","B",18,19,"Male",133784,"UCLA"
-"AssocProf","B",8,6,"Male",104330,"UCLA"
-"Prof","B",25,18,"Male",184377,"UCLA"
-"AsstProf","B",5,5,"Male",94347,"UCLA"
-"Prof","B",19,19,"Male",154695,"UCLA"
-"Prof","B",37,24,"Male",96284,"UCLA"
-"Prof","B",20,20,"Male",137305,"UCLA"
-"AssocProf","B",17,6,"Male",108120,"UCLA"
-"Prof","B",28,25,"Male",114871,"UCLA"
-"AssocProf","B",10,7,"Male",98556,"UCLA"
-"AssocProf","B",13,9,"Male",104064,"UCLA"
-"Prof","B",27,14,"Male",150469,"UCLA"
-"AsstProf","B",3,3,"Female",95120,"UCLA"
-"Prof","B",11,11,"Male",145587,"UCLA"
-"Prof","B",18,5,"Male",144256,"UCLA"
-"AssocProf","B",8,8,"Male",103120,"UCLA"
-"Prof","B",26,22,"Male",153120,"UCLA"
-"Prof","B",23,23,"Male",104120,"UCLA"
-"Prof","B",33,30,"Male",137120,"UCLA"
-"AssocProf","B",13,10,"Female",106870,"UCLA"
-"Prof","B",18,10,"Male",110620,"UCLA"
-"AssocProf","B",28,28,"Male",109420,"UCLA"
-"Prof","B",25,19,"Male",156870,"UCLA"
-"Prof","B",22,9,"Male",183120,"UCLA"
-"Prof","B",43,22,"Male",136820,"UCLA"
-"Prof","B",19,18,"Male",125220,"UCLA"
-"AssocProf","B",19,19,"Male",89370,"UCLA"
-"AssocProf","B",48,53,"Male",93120,"UCLA"
-"AssocProf","B",9,7,"Male",116720,"UCLA"
-"AsstProf","B",4,4,"Male",95820,"UCLA"
-"AsstProf","B",4,4,"Male",95120,"UCLA"
-"Prof","B",34,33,"Male",192529,"UCLA"
-"Prof","B",38,22,"Male",117620,"UCLA"
-"AsstProf","B",4,4,"Male",99353,"University of California Davis"
-"Prof","B",40,40,"Male",126353,"University of California Davis"
-"Prof","B",28,17,"Male",167053,"University of California Davis"
-"Prof","B",17,17,"Male",159153,"University of California Davis"
-"Prof","B",19,5,"Male",171653,"University of California Davis"
-"Prof","B",21,2,"Male",103198,"University of California Davis"
-"Prof","B",35,33,"Male",168853,"University of California Davis"
-"Prof","B",18,18,"Male",126653,"University of California Davis"
-"AsstProf","B",7,2,"Male",97953,"University of California Davis"
-"Prof","B",20,20,"Male",169853,"University of California Davis"
-"AsstProf","B",4,3,"Male",97653,"University of California Davis"
-"Prof","B",39,39,"Male",118003,"University of California Davis"
-"Prof","B",15,7,"Male",135053,"University of California Davis"
-"Prof","B",26,19,"Male",132853,"University of California Davis"
-"AssocProf","B",11,1,"Male",125353,"University of California Davis"
-"Prof","B",16,11,"Male",152003,"University of California Davis"
-"Prof","B",15,11,"Male",152653,"University of California Davis"
-"AssocProf","B",29,22,"Male",112003,"University of California Davis"
-"AssocProf","B",14,7,"Female",116303,"University of California Davis"
-"Prof","B",13,11,"Male",126153,"University of California Davis"
-"Prof","B",21,21,"Male",176653,"University of California Davis"
-"Prof","B",23,10,"Male",151853,"University of California Davis"
-"AssocProf","B",13,6,"Male",113803,"University of California Davis"
-"Prof","B",34,20,"Male",136253,"University of California Davis"
-"Prof","A",38,35,"Male",94453,"University of California Davis"
-"Prof","A",20,20,"Male",129053,"University of California Davis"
-"AsstProf","A",3,1,"Male",70553,"University of California Davis"
-"AssocProf","A",9,7,"Male",76653,"University of California Davis"
-"Prof","A",16,11,"Male",94828,"University of California Davis"
-"Prof","A",39,38,"Male",140553,"University of California Davis"
-"Prof","A",29,27,"Female",97653,"University of California Davis"
-"AssocProf","A",26,24,"Female",79953,"University of California Davis"
-"Prof","A",38,19,"Male",155403,"University of California Davis"
-"Prof","A",36,19,"Female",124208,"University of California Davis"
-"AsstProf","A",8,3,"Male",76353,"University of California Davis"
-"Prof","A",28,17,"Male",88353,"University of California Davis"
-"Prof","A",25,25,"Male",120653,"University of California Davis"
-"AsstProf","A",7,6,"Female",69753,"University of California Davis"
-"Prof","A",46,40,"Male",83855,"University of California Davis"
-"Prof","A",19,6,"Male",102853,"University of California Davis"
-"AsstProf","A",5,3,"Male",72246,"Yale"
-"Prof","A",31,30,"Male",125921,"Yale"
-"Prof","A",38,37,"Male",105646,"Yale"
-"Prof","A",23,23,"Male",111246,"Yale"
-"Prof","A",19,23,"Male",87319,"Yale"
-"Prof","A",17,11,"Female",93496,"Yale"
-"Prof","A",30,23,"Male",94146,"Yale"
-"Prof","A",21,18,"Male",104146,"Yale"
-"Prof","A",28,23,"Male",131846,"Yale"
-"Prof","A",29,7,"Male",207046,"Yale"
-"Prof","A",39,39,"Male",112046,"Yale"
-"Prof","A",20,8,"Male",105046,"Yale"
-"Prof","A",31,12,"Male",135046,"Yale"
-"AsstProf","A",4,2,"Female",80546,"Yale"
-"Prof","A",28,7,"Female",119496,"Yale"
-"AssocProf","A",12,8,"Male",86046,"Yale"
-"Prof","A",22,22,"Male",143346,"Yale"
-"AssocProf","A",30,23,"Male",77046,"Yale"
-"AsstProf","A",9,3,"Male",76846,"Yale"
-"Prof","A",32,30,"Male",95596,"Yale"
-"AssocProf","A",41,33,"Male",91646,"Yale"
-"Prof","A",45,45,"Male",110596,"Yale"
-"Prof","A",31,26,"Male",124246,"Yale"
-"Prof","A",31,31,"Male",129046,"Yale"
-"Prof","A",37,35,"Male",102046,"Yale"
-"Prof","A",36,30,"Male",137846,"Yale"
-"Prof","A",43,43,"Male",146986,"Yale"
-"Prof","A",14,10,"Male",107396,"Yale"
-"Prof","A",47,44,"Male",92696,"Yale"
-"Prof","A",13,7,"Male",106746,"Yale"
-"Prof","A",42,40,"Male",146296,"Yale"
-"Prof","A",42,18,"Male",197846,"Yale"
-"AsstProf","A",4,1,"Male",76046,"Yale"
-"AsstProf","A",8,4,"Male",77046,"Yale"
-"AsstProf","A",8,3,"Female",81546,"Yale"
-"Prof","A",12,6,"Male",96046,"Yale"
-"Prof","A",52,48,"Male",110246,"Yale"
-"Prof","A",31,27,"Male",166246,"Yale"
-"Prof","A",24,18,"Male",110146,"Yale"
-"Prof","A",46,46,"Male",103646,"Yale"
-"Prof","A",39,38,"Male",132650,"Stanford"
-"Prof","A",37,27,"Male",99750,"Stanford"
-"Prof","A",51,51,"Male",53950,"Stanford"
-"Prof","A",45,43,"Male",152015,"Stanford"
-"AssocProf","A",8,6,"Male",84800,"Stanford"
-"AssocProf","A",49,49,"Male",77950,"Stanford"
-"Prof","A",28,27,"Male",111950,"Stanford"
-"AsstProf","A",2,0,"Male",81150,"Stanford"
-"Prof","A",29,27,"Male",146650,"Stanford"
-"AsstProf","A",8,5,"Male",70150,"Stanford"
-"Prof","A",33,7,"Male",170650,"Stanford"
-"Prof","A",32,28,"Male",164650,"Stanford"
-"Prof","A",39,9,"Male",179950,"Stanford"
-"AssocProf","A",11,1,"Male",100950,"Stanford"
-"Prof","A",19,7,"Male",103450,"Stanford"
-"Prof","A",40,36,"Male",93300,"Stanford"
-"Prof","A",18,18,"Male",122450,"Stanford"
-"Prof","A",17,11,"Male",144950,"Stanford"
-"Prof","A",49,43,"Male",68450,"Stanford"
-"AssocProf","A",45,39,"Male",66850,"Stanford"
-"Prof","A",39,36,"Male",84750,"Stanford"
-"Prof","A",27,16,"Male",123250,"Stanford"
-"Prof","A",28,13,"Male",166650,"Stanford"
-"Prof","A",14,4,"Male",101410,"Stanford"
-"Prof","A",46,44,"Male",140200,"Stanford"
-"Prof","A",33,31,"Male",107500,"Stanford"
-"AsstProf","A",7,4,"Male",70650,"Stanford"
-"Prof","A",31,28,"Male",118650,"Stanford"
-"AsstProf","A",5,0,"Male",70150,"Stanford"
-"Prof","A",22,15,"Male",162950,"Stanford"
-"Prof","A",20,7,"Male",88200,"Stanford"
-"Prof","A",14,9,"Male",104250,"Stanford"
-"Prof","A",29,19,"Male",90500,"Stanford"
-"Prof","A",35,35,"Male",96501,"Stanford"
-"Prof","A",22,6,"Male",142950,"Stanford"
-"AsstProf","B",6,3,"Male",80866,"Stanford"
-"AssocProf","B",12,9,"Female",67215,"Stanford"
-"Prof","B",46,45,"Male",63709,"Stanford"
-"Prof","B",16,16,"Male",130700,"Stanford"
-"Prof","B",16,15,"Male",131177,"Stanford"
-"Prof","B",24,23,"Male",106939,"Penn State"
-"AssocProf","B",9,9,"Male",98153,"Penn State"
-"AssocProf","B",13,11,"Male",128942,"Penn State"
-"Prof","B",24,15,"Female",163612,"Penn State"
-"Prof","B",30,31,"Male",164732,"Penn State"
-"AsstProf","B",8,4,"Male",87011,"Penn State"
-"Prof","B",23,15,"Male",127225,"Penn State"
-"Prof","B",37,37,"Male",154161,"Penn State"
-"AssocProf","B",10,10,"Male",101758,"Penn State"
-"Prof","B",23,23,"Male",137289,"Penn State"
-"Prof","B",49,60,"Male",194764,"Penn State"
-"Prof","B",20,9,"Male",119029,"Penn State"
-"Prof","B",18,10,"Female",107961,"Penn State"
-"Prof","B",33,19,"Male",147609,"Penn State"
-"AssocProf","B",19,6,"Female",107053,"Penn State"
-"Prof","B",36,38,"Male",153956,"Penn State"
-"Prof","B",35,23,"Male",100564,"Penn State"
-"Prof","B",13,12,"Male",147511,"Penn State"
-"Prof","B",32,25,"Male",130975,"Penn State"
-"Prof","B",37,15,"Male",139828,"Penn State"
-"Prof","B",13,11,"Male",108742,"Penn State"
-"Prof","B",17,17,"Female",126823,"Penn State"
-"Prof","B",38,38,"Male",117107,"Penn State"
-"Prof","B",31,31,"Male",164661,"Penn State"
-"Prof","B",32,35,"Male",152887,"Penn State"
-"Prof","B",15,10,"Male",110497,"Penn State"
-"Prof","B",41,27,"Male",144534,"Penn State"
-"Prof","B",39,33,"Male",130761,"Penn State"
-"AsstProf","B",4,3,"Male",82650,"Penn State"
-"Prof","B",27,28,"Male",146820,"Penn State"
-"Prof","B",56,49,"Male",189471,"Penn State"
-"Prof","B",38,38,"Male",96030,"Penn State"
-"Prof","B",26,27,"Male",145011,"Penn State"
-"Prof","B",22,20,"Male",140511,"Penn State"
-"AsstProf","B",8,1,"Male",86111,"Penn State"
-"Prof","B",25,21,"Male",147539,"Penn State"
-"Prof","A",49,40,"Male",91220,"Penn State"
-"Prof","A",39,35,"Male",109820,"Penn State"
-"Prof","A",28,14,"Female",112465,"Penn State"
-"AsstProf","A",11,4,"Male",81296,"Penn State"
-"Prof","A",14,11,"Male",119018,"Northwestern"
-"Prof","A",23,15,"Female",106718,"Northwestern"
-"Prof","A",30,30,"Male",135843,"Northwestern"
-"AssocProf","A",20,17,"Male",78357,"Northwestern"
-"Prof","A",43,43,"Male",202572,"Northwestern"
-"Prof","A",43,40,"Male",98108,"Northwestern"
-"Prof","A",15,10,"Male",112507,"Northwestern"
-"AssocProf","A",10,1,"Male",105485,"Northwestern"
-"Prof","A",35,30,"Male",129022,"Northwestern"
-"Prof","A",33,31,"Male",131762,"Northwestern"
-"AssocProf","A",13,8,"Male",75254,"Northwestern"
-"Prof","A",23,20,"Male",107587,"Northwestern"
-"Prof","A",12,7,"Male",106779,"Northwestern"
-"Prof","A",30,26,"Male",133732,"Northwestern"
-"Prof","A",27,19,"Male",100347,"Northwestern"
-"Prof","A",28,26,"Male",100721,"Northwestern"
-"AsstProf","A",4,1,"Male",71928,"Northwestern"
-"AsstProf","A",6,3,"Male",74153,"Northwestern"
-"Prof","A",38,38,"Male",147752,"Northwestern"
-"AssocProf","A",11,8,"Male",101193,"Northwestern"
-"AsstProf","A",8,3,"Male",73068,"Northwestern"
-"Prof","A",27,23,"Male",169577,"Northwestern"
-"AssocProf","A",8,5,"Male",83967,"Northwestern"
-"Prof","A",44,44,"Male",102072,"Northwestern"
-"Prof","A",27,21,"Male",122264,"Northwestern"
-"Prof","A",15,9,"Male",111402,"Northwestern"
-"Prof","A",29,27,"Male",136291,"Northwestern"
-"Prof","A",29,15,"Male",106377,"Northwestern"
-"Prof","A",38,36,"Male",116522,"Northwestern"
-"Prof","A",33,18,"Male",183095,"Northwestern"
-"Prof","A",40,19,"Male",163677,"Northwestern"
-"Prof","A",30,19,"Male",148364,"Northwestern"
-"Prof","A",33,30,"Male",100178,"Northwestern"
-"Prof","A",31,19,"Male",147636,"Northwestern"
-"Prof","A",42,25,"Male",98810,"Northwestern"
-"Prof","A",25,15,"Male",92401,"Northwestern"
-"AsstProf","A",8,4,"Male",78107,"Northwestern"
+rank,discipline,yrs.since.phd,yrs.service,sex,salary,institution
+Prof,B,19,18,Male,136249,Princeton
+Prof,B,20,16,Male,169699,Princeton
+AsstProf,B,4,3,Male,76249,Princeton
+Prof,B,45,39,Male,111499,Princeton
+Prof,B,40,41,Male,137999,Princeton
+AssocProf,B,6,6,Male,93499,Princeton
+Prof,B,30,23,Male,171499,Princeton
+Prof,B,45,45,Male,144264,Princeton
+Prof,B,21,20,Male,115749,Princeton
+Prof,B,18,18,Female,125499,Princeton
+AssocProf,B,12,8,Male,116299,Princeton
+AsstProf,B,7,2,Male,76299,Princeton
+AsstProf,B,1,1,Male,74199,Princeton
+AsstProf,B,2,0,Male,74499,Princeton
+Prof,B,20,18,Male,101299,Princeton
+Prof,B,12,3,Male,113649,Princeton
+Prof,B,19,20,Male,97499,Princeton
+Prof,A,38,34,Male,99949,Princeton
+Prof,A,37,23,Male,121249,Princeton
+Prof,A,39,36,Female,133499,Princeton
+Prof,A,31,26,Male,86064,Princeton
+Prof,A,36,31,Male,99079,Princeton
+Prof,A,34,30,Male,90403,Princeton
+Prof,A,24,19,Male,109567,Princeton
+AssocProf,A,13,8,Female,71329,Princeton
+Prof,A,21,8,Male,102793,Princeton
+Prof,A,35,23,Male,131384,Princeton
+AsstProf,B,5,3,Male,78878,Princeton
+AsstProf,B,11,0,Male,73499,Princeton
+Prof,B,12,8,Male,114722,Princeton
+Prof,B,20,4,Male,128760,Princeton
+AsstProf,B,7,2,Male,76415,Princeton
+Prof,B,13,-9,Male,113755,Princeton
+AsstProf,B,4,2,Male,76724,Princeton
+AsstProf,B,4,2,Female,76724,Princeton
+AsstProf,B,5,0,Female,73499,Princeton
+Prof,B,22,21,Male,152249,Princeton
+AsstProf,B,7,4,Male,82872,Princeton
+Prof,B,41,31,Male,121695,Princeton
+AssocProf,B,9,9,Male,97437,Princeton
+Prof,B,23,2,Male,145541,Harvard
+AssocProf,B,23,23,Male,92459,Harvard
+Prof,B,40,27,Male,100340,Harvard
+Prof,B,38,38,Male,230586,Harvard
+Prof,B,19,19,Male,93425,Harvard
+Prof,B,25,15,Male,113819,Harvard
+Prof,B,40,28,Male,97234,Harvard
+Prof,B,23,19,Female,150809,Harvard
+Prof,B,25,25,Female,139137,Harvard
+AsstProf,B,1,1,Male,69809,Harvard
+Prof,B,28,28,Male,125662,Harvard
+Prof,B,12,11,Male,107916,Harvard
+AsstProf,B,11,3,Female,73733,Harvard
+Prof,B,16,9,Male,105680,Harvard
+AssocProf,B,12,11,Male,102801,Harvard
+AssocProf,B,14,5,Male,82941,Harvard
+Prof,B,23,21,Male,116745,Harvard
+AssocProf,B,9,8,Male,89256,Harvard
+AssocProf,B,10,9,Male,99176,Harvard
+AsstProf,B,8,3,Male,74085,Harvard
+AssocProf,B,9,8,Male,89345,Harvard
+AsstProf,B,3,2,Male,74284,Harvard
+Prof,B,33,31,Male,108826,Harvard
+AssocProf,B,11,11,Female,102654,Harvard
+AsstProf,B,4,3,Male,67445,Harvard
+AssocProf,B,9,8,Male,99563,Harvard
+Prof,B,22,12,Male,100041,Harvard
+Prof,B,35,31,Male,98459,Harvard
+Prof,B,17,17,Female,110553,Harvard
+Prof,B,28,36,Male,90453,Harvard
+Prof,B,17,2,Male,125361,Harvard
+Prof,B,45,45,Male,145897,Harvard
+Prof,B,29,19,Male,99172,Harvard
+Prof,B,35,34,Male,91432,Harvard
+Prof,B,28,23,Male,112439,Harvard
+AsstProf,B,8,3,Male,72307,Harvard
+Prof,B,17,3,Male,149521,Harvard
+Prof,B,26,19,Male,192041,Harvard
+AsstProf,B,3,1,Male,85141,Harvard
+AsstProf,B,6,2,Male,83281,Harvard
+Prof,B,43,28,Male,136502,Columbia
+Prof,B,17,16,Male,121344,Columbia
+Prof,B,22,20,Male,130399,Columbia
+AsstProf,B,6,2,Male,74584,Columbia
+Prof,B,17,18,Female,108719,Columbia
+Prof,B,15,14,Male,118584,Columbia
+Prof,B,37,37,Male,138467,Columbia
+AsstProf,B,2,2,Male,74159,Columbia
+Prof,B,25,25,Male,158031,Columbia
+AssocProf,B,9,7,Male,92767,Columbia
+AsstProf,B,10,5,Female,82791,Columbia
+AssocProf,B,10,7,Male,90887,Columbia
+AssocProf,B,10,7,Male,91390,Columbia
+Prof,B,38,38,Male,151783,Columbia
+Prof,B,21,20,Male,109442,Columbia
+AsstProf,B,4,0,Male,69759,Columbia
+AssocProf,B,17,12,Male,81370,Columbia
+Prof,B,13,7,Male,115435,Columbia
+Prof,B,30,14,Male,87994,Columbia
+Prof,B,41,26,Male,92448,Columbia
+Prof,B,42,25,Male,118976,Columbia
+Prof,B,28,23,Male,112692,Columbia
+Prof,B,16,5,Male,139062,Columbia
+Prof,B,20,14,Female,113271,Columbia
+AssocProf,A,18,10,Male,69609,Columbia
+Prof,A,31,28,Male,99302,Columbia
+AssocProf,A,11,8,Male,67858,Columbia
+AssocProf,A,10,8,Male,68359,Columbia
+AssocProf,A,15,8,Male,67259,Columbia
+Prof,A,40,31,Male,116964,Columbia
+Prof,A,20,16,Male,98188,Columbia
+AssocProf,A,19,16,Male,67859,Columbia
+AsstProf,A,3,1,Male,58259,Columbia
+Prof,A,37,37,Male,90038,Columbia
+Prof,A,12,0,Female,90759,Columbia
+Prof,A,21,9,Male,106565,Columbia
+Prof,A,30,29,Male,134259,Columbia
+Prof,A,39,36,Male,103274,Columbia
+AsstProf,A,4,1,Male,58259,Columbia
+AsstProf,A,5,3,Female,59259,Columbia
+Prof,A,14,14,Male,113934,MIT
+Prof,A,32,32,Male,122930,MIT
+Prof,A,24,22,Male,95883,MIT
+AssocProf,A,25,22,Female,61505,MIT
+Prof,A,24,22,Male,95235,MIT
+Prof,A,54,49,Male,76783,MIT
+Prof,A,28,26,Male,154121,MIT
+AsstProf,A,2,0,Female,71121,MIT
+Prof,A,32,30,Male,111899,MIT
+AsstProf,A,4,2,Male,71621,MIT
+AssocProf,A,11,9,Male,81622,MIT
+Prof,A,56,57,Male,75461,MIT
+AssocProf,A,10,8,Female,76121,MIT
+AsstProf,A,3,1,Female,71121,MIT
+Prof,A,35,25,Male,167256,MIT
+Prof,A,20,18,Male,134621,MIT
+Prof,A,16,14,Male,106883,MIT
+Prof,A,17,14,Male,104289,MIT
+AssocProf,A,10,7,Male,72498,MIT
+Prof,A,21,18,Male,151285,MIT
+AssocProf,A,14,8,Male,98723,MIT
+AssocProf,A,15,10,Male,80121,MIT
+Prof,A,19,11,Male,105229,MIT
+AsstProf,B,3,3,Male,88563,MIT
+Prof,B,27,27,Male,111317,MIT
+Prof,B,28,28,Male,117636,MIT
+AsstProf,B,4,4,Male,90621,MIT
+Prof,B,27,27,Male,155559,MIT
+Prof,B,36,26,Female,143272,MIT
+AsstProf,B,4,3,Male,93700,MIT
+Prof,B,14,12,Male,126769,MIT
+AsstProf,B,4,4,Male,90621,MIT
+Prof,B,21,9,Male,109789,MIT
+AssocProf,B,12,10,Female,102615,MIT
+AsstProf,B,4,0,Male,90621,MIT
+Prof,B,21,21,Male,117592,MIT
+AssocProf,B,12,18,Male,111962,MIT
+AsstProf,B,1,0,Male,86621,MIT
+AssocProf,B,6,6,Male,94029,MIT
+Prof,B,15,16,Male,135788,MIT
+AsstProf,B,2,2,Male,86958,UCLA
+Prof,B,26,19,Male,173942,UCLA
+AssocProf,B,22,7,Male,95952,UCLA
+AsstProf,B,3,3,Male,87384,UCLA
+AsstProf,B,1,0,Male,86237,UCLA
+Prof,B,21,8,Male,103332,UCLA
+Prof,B,16,16,Male,164726,UCLA
+Prof,B,18,19,Male,128106,UCLA
+AssocProf,B,8,6,Male,98652,UCLA
+Prof,B,25,18,Male,178699,UCLA
+AsstProf,B,5,5,Male,88669,UCLA
+Prof,B,19,19,Male,149017,UCLA
+Prof,B,37,24,Male,90606,UCLA
+Prof,B,20,20,Male,131627,UCLA
+AssocProf,B,17,6,Male,102442,UCLA
+Prof,B,28,25,Male,109193,UCLA
+AssocProf,B,10,7,Male,92878,UCLA
+AssocProf,B,13,9,Male,98386,UCLA
+Prof,B,27,14,Male,144791,UCLA
+AsstProf,B,3,3,Female,89442,UCLA
+Prof,B,11,11,Male,139909,UCLA
+Prof,B,18,5,Male,138578,UCLA
+AssocProf,B,8,8,Male,97442,UCLA
+Prof,B,26,22,Male,147442,UCLA
+Prof,B,23,23,Male,98442,UCLA
+Prof,B,33,30,Male,131442,UCLA
+AssocProf,B,13,10,Female,101192,UCLA
+Prof,B,18,10,Male,104942,UCLA
+AssocProf,B,28,28,Male,103742,UCLA
+Prof,B,25,19,Male,151192,UCLA
+Prof,B,22,9,Male,177442,UCLA
+Prof,B,43,22,Male,131142,UCLA
+Prof,B,19,18,Male,119542,UCLA
+AssocProf,B,19,19,Male,83692,UCLA
+AssocProf,B,48,53,Male,87442,UCLA
+AssocProf,B,9,7,Male,111042,UCLA
+AsstProf,B,4,4,Male,90142,UCLA
+AsstProf,B,4,4,Male,89442,UCLA
+Prof,B,34,33,Male,186851,UCLA
+Prof,B,38,22,Male,111942,UCLA
+AsstProf,B,4,4,Male,98706,University of California Davis
+Prof,B,40,40,Male,125706,University of California Davis
+Prof,B,28,17,Male,166406,University of California Davis
+Prof,B,17,17,Male,158506,University of California Davis
+Prof,B,19,5,Male,171006,University of California Davis
+Prof,B,21,2,Male,102551,University of California Davis
+Prof,B,35,33,Male,168206,University of California Davis
+Prof,B,18,18,Male,126006,University of California Davis
+AsstProf,B,7,2,Male,97306,University of California Davis
+Prof,B,20,20,Male,169206,University of California Davis
+AsstProf,B,4,3,Male,97006,University of California Davis
+Prof,B,39,39,Male,117356,University of California Davis
+Prof,B,15,7,Male,134406,University of California Davis
+Prof,B,26,19,Male,132206,University of California Davis
+AssocProf,B,11,1,Male,124706,University of California Davis
+Prof,B,16,11,Male,151356,University of California Davis
+Prof,B,15,11,Male,152006,University of California Davis
+AssocProf,B,29,22,Male,111356,University of California Davis
+AssocProf,B,14,7,Female,115656,University of California Davis
+Prof,B,13,11,Male,125506,University of California Davis
+Prof,B,21,21,Male,176006,University of California Davis
+Prof,B,23,10,Male,151206,University of California Davis
+AssocProf,B,13,6,Male,113156,University of California Davis
+Prof,B,34,20,Male,135606,University of California Davis
+Prof,A,38,35,Male,93806,University of California Davis
+Prof,A,20,20,Male,128406,University of California Davis
+AsstProf,A,3,1,Male,69906,University of California Davis
+AssocProf,A,9,7,Male,76006,University of California Davis
+Prof,A,16,11,Male,94181,University of California Davis
+Proof,A,39,38,Male,139906,University of California Davis
+Prof,A,29,27,Female,97006,University of California Davis
+AssocProf,A,26,24,Female,79306,University of California Davis
+Prof,A,38,19,Male,154756,University of California Davis
+Prof,A,36,19,Female,123561,University of California Davis
+AsstProf,A,8,3,Male,75706,University of California Davis
+Prof,A,28,17,Male,87706,University of California Davis
+Prof,A,25,25,Male,120006,University of California Davis
+AsstProf,A,7,6,Female,69106,University of California Davis
+Prof,A,46,40,Male,83208,University of California Davis
+Prof,A,19,6,Male,102206,University of California Davis
+AsstProf,A,5,3,Male,61473,Yale
+Prof,A,31,30,Male,115148,Yale
+Prof,A,38,37,Male,94873,Yale
+Prof,A,23,23,Male,100473,Yale
+Prof,A,19,23,Male,76546,Yale
+Prof,A,17,11,Female,82723,Yale
+Prof,A,30,23,Male,83373,Yale
+Prof,A,21,18,Male,93373,Yale
+Prof,A,28,23,Male,121073,Yale
+Prof,A,29,7,Male,196273,Yale
+Prof,A,39,39,Male,101273,Yale
+Prof,A,20,8,Male,94273,Yale
+Prof,A,31,12,Male,124273,Yale
+AsstProf,A,4,2,Female,69773,Yale
+Prof,A,28,7,Female,108723,Yale
+AssocProf,A,12,8,Male,75273,Yale
+Prof,A,22,22,Male,132573,Yale
+AssocProf,A,30,23,Male,66273,Yale
+AsstProf,A,9,3,Male,66073,Yale
+Prof,A,32,30,Male,84823,Yale
+AssocProf,A,41,33,Male,80873,Yale
+Prof,A,45,45,Male,99823,Yale
+Prof,A,31,26,Male,113473,Yale
+Prof,A,31,31,Male,118273,Yale
+Prof,A,37,35,Male,91273,Yale
+Prof,A,36,30,Male,127073,Yale
+Prof,A,43,43,Male,136213,Yale
+Prof,A,14,10,Male,96623,Yale
+Prof,A,47,44,Male,81923,Yale
+Prof,A,13,7,Male,95973,Yale
+Prof,A,42,40,Male,135523,Yale
+Prof,A,42,18,Male,187073,Yale
+AsstProf,A,4,1,Male,65273,Yale
+AsstProf,A,8,4,Male,66273,Yale
+AsstProf,A,8,3,Female,70773,Yale
+Prof,A,12,6,Male,85273,Yale
+Prof,A,52,48,Male,99473,Yale
+Prof,A,31,27,Male,155473,Yale
+Prof,A,24,18,Male,99373,Yale
+Prof,A,46,46,Male,92873,Yale
+Prof,A,39,38,Male,134282,Stanford
+Prof,A,37,27,Male,101382,Stanford
+Prof,A,51,51,Male,55582,Stanford
+Prof,A,45,43,Male,153647,Stanford
+AssocProf,A,8,6,Male,86432,Stanford
+AssocProf,A,49,49,Male,79582,Stanford
+Prof,A,28,27,Male,113582,Stanford
+AsstProf,A,2,0,Male,82782,Stanford
+Prof,A,29,27,Male,148282,Stanford
+AsstProf,A,8,5,Male,71782,Stanford
+Prof,A,33,7,Male,172282,Stanford
+Prof,A,32,28,Male,166282,Stanford
+Prof,A,39,9,Male,181582,Stanford
+AssocProf,A,11,1,Male,102582,Stanford
+Prof,A,19,7,Male,105082,Stanford
+Prof,A,40,36,Male,94932,Stanford
+Prof,A,18,18,Male,124082,Stanford
+Prof,A,17,11,Male,146582,Stanford
+Prof,A,49,43,Male,70082,Stanford
+AssocProf,A,45,39,Male,68482,Stanford
+Prof,A,39,36,Male,86382,Stanford
+Prof,A,27,16,Male,124882,Stanford
+Prof,A,28,13,Male,168282,Stanford
+Prof,A,14,4,Male,103042,Stanford
+Prof,A,46,44,Male,141832,Stanford
+Prof,A,33,31,Male,109132,Stanford
+AsstProf,A,7,4,Male,72282,Stanford
+Prof,A,31,28,Male,120282,Stanford
+AsstProf,A,5,0,Male,71782,Stanford
+Prof,A,22,15,Male,164582,Stanford
+Prof,A,20,7,Male,89832,Stanford
+Prof,A,14,9,Male,105882,Stanford
+Prof,A,29,19,Male,92132,Stanford
+Prof,A,35,35,Male,98133,Stanford
+Prof,A,22,6,Male,144582,Stanford
+AsstProf,B,6,3,Male,82498,Stanford
+AssocProf,B,12,9,Female,68847,Stanford
+Prof,B,46,45,Male,65341,Stanford
+Prof,B,16,16,Male,132332,Stanford
+Prof,B,16,15,Male,132809,Stanford
+Prof,B,24,23,Male,98546,Penn State
+AssocProf,B,9,9,Male,89760,Penn State
+AssocProf,B,13,11,Male,120549,Penn State
+Prof,B,24,15,Female,155219,Penn State
+Prof,B,30,31,Male,156339,Penn State
+AsstProf,B,8,4,Male,78618,Penn State
+Prof,B,23,15,Male,118832,Penn State
+Prof,B,37,37,Male,145768,Penn State
+AssocProf,B,10,10,Male,93365,Penn State
+Prof,B,23,23,Male,128896,Penn State
+Prof,B,49,60,Male,186371,Penn State
+Prof,B,20,9,Male,110636,Penn State
+Prof,B,18,10,Female,99568,Penn State
+Prof,B,33,19,Male,139216,Penn State
+AssocProf,B,19,6,Female,98660,Penn State
+Prof,B,36,38,Male,145563,Penn State
+Prof,B,35,23,Male,92171,Penn State
+Prof,B,13,12,Male,139118,Penn State
+Prof,B,32,25,Male,122582,Penn State
+Prof,B,37,15,Male,131435,Penn State
+Prof,B,13,11,Male,100349,Penn State
+Prof,B,17,17,Female,118430,Penn State
+Prof,B,38,38,Male,108714,Penn State
+Prof,B,31,31,Male,156268,Penn State
+Prof,B,32,35,Male,144494,Penn State
+Prof,B,15,10,Male,102104,Penn State
+Prof,B,41,27,Male,136141,Penn State
+Prof,B,39,33,Male,122368,Penn State
+AsstProf,B,4,3,Male,74257,Penn State
+Prof,B,27,28,Male,138427,Penn State
+Prof,B,56,49,Male,181078,Penn State
+Prof,B,38,38,Male,87637,Penn State
+Prof,B,26,27,Male,136618,Penn State
+Prof,B,22,20,Male,132118,Penn State
+AsstProf,B,8,1,Male,77718,Penn State
+Prof,B,25,21,Male,139146,Penn State
+Prof,A,49,40,Male,82827,Penn State
+Prof,A,39,35,Male,101427,Penn State
+Prof,A,28,14,Female,104072,Penn State
+AsstProf,A,11,4,Male,72903,Penn State
+Prof,A,14,11,Male,115308,Northwestern
+Prof,A,23,15,Female,103008,Northwestern
+Prof,A,30,30,Male,132133,Northwestern
+AssocProf,A,20,17,Male,74647,Northwestern
+Prof,A,43,43,Male,198862,Northwestern
+Prof,A,43,40,Male,94398,Northwestern
+Prof,A,15,10,Male,108797,Northwestern
+AssocProf,A,10,1,Male,101775,Northwestern
+Prof,A,35,30,Male,125312,Northwestern
+Prof,A,33,31,Male,128052,Northwestern
+AssocProf,A,13,8,Male,71544,Northwestern
+Prof,A,23,20,Male,103877,Northwestern
+Prof,A,12,7,Male,103069,Northwestern
+Prof,A,30,26,Male,130022,Northwestern
+Prof,A,27,19,Male,96637,Northwestern
+Prof,A,28,26,Male,97011,Northwestern
+AsstProf,A,4,1,Male,68218,Northwestern
+AsstProf,A,6,3,Male,70443,Northwestern
+Prof,A,38,38,Male,144042,Northwestern
+AssocProf,A,11,8,Male,97483,Northwestern
+AsstProf,A,8,3,Male,69358,Northwestern
+Prof,A,27,23,Male,165867,Northwestern
+AssocProf,A,8,5,Male,80257,Northwestern
+Prof,A,44,44,Male,98362,Northwestern
+Prof,A,27,21,Male,118554,Northwestern
+Prof,A,15,9,Male,107692,Northwestern
+Prof,A,29,27,Male,132581,Northwestern
+Prof,A,29,15,Male,102667,Northwestern
+Prof,A,38,36,Male,112812,Northwestern
+Prof,A,33,18,Male,179385,Northwestern
+Prof,A,40,19,Male,159967,Northwestern
+Prof,A,30,19,Male,144654,Northwestern
+Prof,A,33,30,Male,96468,Northwestern
+Prof,A,31,19,Male,143926,Northwestern
+Prof,A,42,25,Male,95100,Northwestern
+Prof,A,25,15,Male,88691,Northwestern
+AsstProf,A,8,4,Male,74397,Northwestern
